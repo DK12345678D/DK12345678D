@@ -18,7 +18,8 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
 - 🤔 **I’m looking for help with:** Angular
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dinkarprasad682@gmail.com
-- 😄 **Pronouns:** Dinkar<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** Dinkar
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
