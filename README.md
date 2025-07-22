@@ -1,4 +1,8 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dk12345678d&label=Profile%20views&color=0e75b6&style=flat" alt="dk12345678d" /> </p>
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Dinkar Prasad</h1>
+<h3 align="center">A passionate Java developer from India</h3>
 <div align="center">
  💫 Hi 👋, I'm Dinkar Prasad<br>
   **A passionate java Developer || Software Engineer || Backend Developer**
@@ -28,9 +32,57 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
 
 ## 🌐 Socials:
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinkarprasadjava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinkarprasad682@gmail.com) 
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dinkarprasad682@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinkarprasadjava)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/DK12345678D)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
+  [![Naukri](https://img.shields.io/badge/Naukri-%23005CA1.svg?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+  [![Internshala](https://img.shields.io/badge/Internshala-%2300A5EC.svg?style=flat-square&logo=internet-explorer&logoColor=white)](https://internshala.com/student/dashboard)
+
 </div>
+
+
+
+
+<!--
+ <p align="left">
+
+  <a href="https://linkedin.com/in/dinkarprasadjava" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  
+  <a href="https://www.hackerrank.com/@dinkarprasad682" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/DK12345678D" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+
+  <a href="mailto:dinkarprasad682@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
+
+ 
+  <a href="https://www.facebook.com/dinkarprasad" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
+    <img align="center" src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" height="30" width="40" />
+  </a>
+
+ 
+  <a href="https://internshala.com/student/dashboard" target="_blank">
+    <img align="center" src="https://internshala.com/favicon.ico" alt="Internshala" height="30" width="40" />
+  </a>
+</p>
+-->
+
 
 # 💻 Tech Stack:
 <div align="center">
