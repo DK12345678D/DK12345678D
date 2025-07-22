@@ -1,11 +1,6 @@
-## Hi there 👋
-
-<!--
-**DK12345678D/DK12345678D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+# 💫 About Me:
+# 💫 Hi 👋, I'm Dinkar Prasad<br>**A passionate java Developer || Software Engineer || Backend Developer**
+- 🔭 I’m currently working on ...Microservice
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,9 +8,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 💫 About Me:
-# 💫 Hi 👋, I'm Dinkar Prasad<br>**A passionate java Developer || Software Engineer || Backend Developer**<br><br>Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or Anything Else. 😊😊<br><br>- 🔭 **I’m currently working on:** Docker Jenkins<br>- 🌱 **I’m currently learning:** Microservice<br>- 👯 **I’m looking to collaborate on:** Full Stack Java developer<br>- 🤔 **I’m looking for help with:** Angular<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** dinkarprasad682@gmail.com<br>- 😄 **Pronouns:** Dinkar<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or Anything Else.😊😊
+- 🔭 **I’m currently working on:** Docker Jenkins
+- 🌱 **I’m currently learning:** 
+- 👯 **I’m looking to collaborate on:** Full Stack Java developer
+- 🤔 **I’m looking for help with:** Angular
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** dinkarprasad682@gmail.com
+- 😄 **Pronouns:** Dinkar<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
