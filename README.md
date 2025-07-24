@@ -68,7 +68,6 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
 </p>
 -->
 
-
 # 💻 Technologies I'm Learning:
 - Software : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 - Front End : ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) 
