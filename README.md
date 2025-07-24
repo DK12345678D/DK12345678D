@@ -31,9 +31,6 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
 
 </div>
 
-
-
-
 <!--
  <p align="left">
 
