@@ -61,7 +61,6 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
   <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
     <img align="center" src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" height="30" width="40" />
   </a>
-
  
   <a href="https://internshala.com/student/dashboard" target="_blank">
     <img align="center" src="https://internshala.com/favicon.ico" alt="Internshala" height="30" width="40" />
