@@ -57,7 +57,6 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-  
   <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
     <img align="center" src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" height="30" width="40" />
   </a>
