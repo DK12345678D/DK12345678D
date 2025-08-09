@@ -1,18 +1,20 @@
 # 💫 About Me:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dk12345678d&label=Profile%20views&color=0e75b6&style=flat" alt="dk12345678d" /> </p>
-<h1 align="center">Hi 👋, I'm Dinkar Prasad</h1>
+<h1 align="center">Hi 👋, I'm Dinkar Prasad <br> ** java Developer || Software Engineer || Backend Developer **</h1>
+
+ 
+ <!--
 <h3 align="center">A passionate Java developer from India</h3>
 <div align="center">
  💫 Hi 👋, I'm Dinkar Prasad<br>
-  **A passionate java Developer || Software Engineer || Backend Developer**
-</div>
-
+ </div>
 Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or Anything Else.😊😊
-##
+-->
+
 - 🔭 **I’m currently working on:** Docker Jenkins
-- 🌱 **I’m currently learning:** Microservice
+<!--- 🌱 **I’m currently learning:** Microservice -->
 - 👯 **I’m looking to collaborate on:** Full Stack Java developer
-- 🤔 **I’m looking for help with:** Angular
+- 🤔 **I’m looking for help with:** Java SpringBoot MySQL Angular
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dinkarprasad682@gmail.com
 - 😄 **Pronouns:** Dinkar
@@ -73,6 +75,7 @@ Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or 
 - Database : ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 <div align="center">
 -->
+<div align="center">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
   
 </div>
