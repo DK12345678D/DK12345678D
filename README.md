@@ -11,7 +11,7 @@
 Email Me 👉 ✉️ **dinkarprasad682@gmail.com** For Collaboration/Project or Anything Else.😊😊
 -->
 
-- 🔭 **I’m currently working on:** Docker Jenkins
+- 🔭 **I’m currently working on:** BerryBloomer Pvt Ltd as a Trainee Software Engineer
 <!--- 🌱 **I’m currently learning:** Microservice -->
 - 👯 **I’m looking to collaborate on:** Full Stack Java developer
 - 🤔 **I’m looking for help with:** Java SpringBoot MySQL Angular
