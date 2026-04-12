@@ -33,8 +33,8 @@
 ### 🛠️ Elite Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,redis,mysql,mongodb,oracle,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,kafka,rabbitmq,nginx,linux,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,redis,postgres,mysql,mongodb" /><br>
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,kafka,rabbitmq,nginx,linux,bash" /><br>
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,postman,git,github" /><br>
   <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,sublime,figma" />
 </div>
@@ -43,25 +43,25 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center"><b>Backend & Reactive</b></td>
-    <td align="center"><b>Infrastructure & DevOps</b></td>
-    <td align="center"><b>Observability & Data</b></td>
+    <td align="center"><b>Backend & Architecture</b></td>
+    <td align="center"><b>Infrastructure & Cloud</b></td>
+    <td align="center"><b>Observability & Performance</b></td>
   </tr>
   <tr>
     <td align="center">
       <code>Spring WebFlux</code> <code>Project Reactor</code><br>
-      <code>Spring Boot 3.x</code> <code>Security / JWT</code><br>
-      <code>Testcontainers</code> <code>WireMock</code>
+      <code>Spring Boot 3.x</code> <code>REST API Design</code><br>
+      <code>Design Patterns</code> <code>SOLID Principles</code>
     </td>
     <td align="center">
       <code>Kubernetes</code> <code>Docker Compose</code><br>
       <code>Service Mesh</code> <code>Resilience4j</code><br>
-      <code>Github Actions</code> <code>Jenkins</code>
+      <code>CI/CD Pipelines</code> <code>Jenkins</code>
     </td>
     <td align="center">
       <code>Prometheus</code> <code>Grafana</code><br>
       <code>Zipkin / Sleuth</code> <code>ELK Stack</code><br>
-      <code>Maps API</code> <code>Payment APIs</code>
+      <code>SQL Query Tuning</code> <code>Redis Caching</code>
     </td>
   </tr>
 </table>
@@ -94,9 +94,9 @@
 </div>
 
 ---
-
+<!-- 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=DK12345678D&icon=0&color=9" alt="Counter" />
-</p>
+</p> -->
 
 <!-- Expertly Architected by Antigravity | 2026 -->
