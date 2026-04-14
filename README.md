@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dk12345678d&label=Profile%20views&color=0e75b6&style=plastic" alt="dk12345678d" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DK12345678D&label=Profile%20views&color=0e75b6&style=plastic" alt="DK12345678D" /> </p>
 <h1 align="center">⚔️ Dinkar Prasad ⚔️</h1>
 <h3 align="center">Senior-Level Backend Architect | Distributed Systems Maven | Cloud Native Engineer</h3>
 
@@ -68,19 +68,31 @@
 
 ---
 
+### 🚀 High-Impact Projects
+
+#### 💍 [ParinaySanskar App](https://github.com/DK12345678D)
+**Backend Architect & Lead Developer** | `Java` `Spring Boot` `MySQL` `Spring Security` `JWT`
+- **Core Mission**: Developed a premium matrimonial platform focused on serious matchmaking for marriage-oriented users.
+- **Matchmaking Engine**: Engineered complex search filters and match recommendation algorithms based on deep user preferences.
+- **Secure Communication**: Integrated secure interest request workflows and real-time in-app messaging.
+- **Trust & Safety**: Implemented multi-level user verification and granular privacy controls to ensure a safe environment.
+- **Seamless UX**: Designed an intuitive onboarding process and a robust profile management system for high user retention.
+
+---
+
 ### 📊 Vital Statistics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DK12345678D&show_icons=true&theme=blood&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK12345678D&layout=compact&theme=blood&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=DK12345678D&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=DK12345678D&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK12345678D&theme=blood&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK12345678D&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DK12345678D&theme=blood-dark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=DK12345678D&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
