@@ -8,7 +8,7 @@
 <h3 align="center">Senior Backend Architect | Distributed Systems Maven | Cloud Native Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=🚀+Senior+Backend+Engineer+@+BerryBloomer;🏗️+Architecting+Reactive+Microservices+(WebFlux);🔥+Expert+in+Distributed+Caching+%26+Tracing;🛠️+CI/CD+Automation+%26+Cloud+Native+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=🚀++Backend+Engineer+@+codetikki;🏗️+Architecting+Reactive+Microservices+(WebFlux);🔥+Expert+in+Distributed+Caching+%26+Tracing;🛠️+CI/CD+Automation+%26+Cloud+Native+Orchestration" alt="Typing SVG" />
 </div>
 
 ---
