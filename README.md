@@ -77,7 +77,7 @@
 
 ### 🚀 High-Impact Projects
 
-#### ⚡ [karyatikki.codetikki](https://github.com/DK12345678D)
+#### ⚡ [karyatikki.codetikki](https://karyatikki.codetikki.co.in/karyatikki/ba/stories/create)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.3` `Spring Cloud (Eureka, Gateway, Config)` `Spring Security` `MySQL`
 - **Core Mission**: Designed and built the backend microservice architecture for a comprehensive competitive coding, contest, and quiz assessment platform.
 - **Microservice Ecosystem**: Engineered a highly decoupled microservice platform featuring 15+ specialized modules (Auth, Profile, Activity, Quiz, Admin, Coding, Competition).
@@ -87,7 +87,7 @@
 
 ---
 
-#### 📝 [Eco Nari Foundation ](https://github.com/DK12345678D)
+#### 📝 [Eco Nari Foundation ](https://www.econarifoundation.com/)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.x` `Spring Security` `Redis` `MySQL` `Docker`
 - **Backend Engineering**: Designed and delivered **65+ REST APIs** supporting user management and operational workflows with robust validation and structured exception handling.
 - **Backend Automation**: Automated core business processes to streamline operational workflows and minimize manual intervention.
