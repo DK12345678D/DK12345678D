@@ -87,14 +87,12 @@
 
 ---
 
-#### 📝 [Enterprise Exam Portal Platform](https://github.com/DK12345678D)
+#### 📝 [Eco Nari Foundation ](https://github.com/DK12345678D)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.x` `Spring Security` `Redis` `MySQL` `Docker`
-- **Core Mission**: Developed a high-performance, secure online assessment platform featuring end-to-end exam lifecycle management and automated grading.
-- **Intelligent Proctoring**: Implemented strict security safeguards including browser full-screen enforcement, tab-lock, and context-menu/clipboard disable actions to ensure exam integrity.
-- **Automated Exam Lifecycle**: Engineered background schedulers (`TestStatusScheduler`) for dynamic exam scheduling, random question allocation, and instant scorecard generation.
-- **Observability & Caching**: Leveraged Redis caching for user sessions and quiz states, HikariCP for database pooling, and Actuator with Prometheus/Grafana for observability.
-- **Communication & Ticket Support**: Integrated email/SMS notification services (OTP verification) and an in-portal live ticket chat support system for real-time candidate assistance.
-
+- **Backend Engineering**: Designed and delivered **65+ REST APIs** supporting user management and operational workflows with robust validation and structured exception handling.
+- **Backend Automation**: Automated core business processes to streamline operational workflows and minimize manual intervention.
+- **Performance Optimization**: Improved API responsiveness through optimized database queries and efficient API design.
+- **System Reliability**: Enhanced application stability with comprehensive exception handling, input validation, and consistent error management.
 ---
 
 ### 📊 Vital Statistics & Contributions
