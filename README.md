@@ -8,7 +8,7 @@
 <h3 align="center">Senior Backend Architect | Distributed Systems Maven | Cloud Native Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=🚀+Senior+Backend+Engineer+@+BerryBloomer;🏗️+Architecting+Reactive+Microservices+(WebFlux);🔥+Expert+in+Distributed+Caching+%26+Tracing;🛠️+CI/CD+Automation+%26+Cloud+Native+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=🚀++Backend+Engineer+@+codetikki;🏗️+Architecting+Reactive+Microservices+(WebFlux);🔥+Expert+in+Distributed+Caching+%26+Tracing;🛠️+CI/CD+Automation+%26+Cloud+Native+Orchestration" alt="Typing SVG" />
 </div>
 
 ---
@@ -77,7 +77,7 @@
 
 ### 🚀 High-Impact Projects
 
-#### ⚡ [karyatikki.codetikki](https://github.com/DK12345678D)
+#### ⚡ [karyatikki.codetikki](https://karyatikki.codetikki.co.in/karyatikki/ba/stories/create)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.3` `Spring Cloud (Eureka, Gateway, Config)` `Spring Security` `MySQL`
 - **Core Mission**: Designed and built the backend microservice architecture for a comprehensive competitive coding, contest, and quiz assessment platform.
 - **Microservice Ecosystem**: Engineered a highly decoupled microservice platform featuring 15+ specialized modules (Auth, Profile, Activity, Quiz, Admin, Coding, Competition).
@@ -95,6 +95,14 @@
 - **Observability & Caching**: Leveraged Redis caching for user sessions and quiz states, HikariCP for database pooling, and Actuator with Prometheus/Grafana for observability.
 - **Communication & Ticket Support**: Integrated email/SMS notification services (OTP verification) and an in-portal live ticket chat support system for real-time candidate assistance.
 
+---
+
+#### 📝 [Eco Nari Foundation ](https://www.econarifoundation.com/)
+**Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.x` `Spring Security` `Redis` `MySQL` `Docker`
+- **Backend Engineering**: Designed and delivered **65+ REST APIs** supporting user management and operational workflows with robust validation and structured exception handling.
+- **Backend Automation**: Automated core business processes to streamline operational workflows and minimize manual intervention.
+- **Performance Optimization**: Improved API responsiveness through optimized database queries and efficient API design.
+- **System Reliability**: Enhanced application stability with comprehensive exception handling, input validation, and consistent error management.
 ---
 
 ### 📊 Vital Statistics & Contributions
