@@ -14,7 +14,7 @@ jobs:
     name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@v2.5.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
