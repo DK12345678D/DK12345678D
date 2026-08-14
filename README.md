@@ -138,7 +138,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br><br>
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=DK12345678D&theme=neon&stats=true" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
