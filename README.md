@@ -1,81 +1,164 @@
-# 💫 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:111827,70:2563EB,100:38BDF8&height=220&section=header&text=Dinkar%20Prasad&fontSize=56&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=Java%20Backend%20Engineer%20%7C%Spring Boot%20%7C%20Microservices%20%7C%20Cloud&descSize=18&descAlignY=64" width="100%" />
+</div>
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=DK12345678D&label=Profile%20Views&color=00FF94&style=flat-square" alt="Profile Views" /> 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=DK12345678D&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h1 align="center">👨‍💻 Dinkar Prasad</h1>
-<h3 align="center">Senior Backend Architect | Distributed Systems Maven | Cloud Native Engineer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=🚀++Backend+Engineer+@+codetikki;🏗️+Architecting+Reactive+Microservices+(WebFlux);🔥+Expert+in+Distributed+Caching+%26+Tracing;🛠️+CI/CD+Automation+%26+Cloud+Native+Orchestration" alt="Typing SVG" />
-</div>
-
----
-
-### 🛡️ Core Specialization
-- 🌀 **Reactive Systems**: Engineering highly scalable, non-blocking, asynchronous microservices using **Spring WebFlux** & **Project Reactor**.
-- 🕸️ **Advanced Microservices**: Designing resilient, fault-tolerant architectures using **Service Mesh**, **Circuit Breakers (Resilience4j)**, and **Bulkheads**.
-- 💳 **FinTech & Payments**: Architecting secure transaction flows, multi-tenant wallets, and processing pipelines.
-- 📡 **Telemetry & Observability**: Real-time distributed tracing and system monitoring via **Zipkin**, **Prometheus**, and **Grafana**.
-- 🛠️ **Cloud Native & DevOps**: Automating container orchestration and delivery pipelines using **Docker**, **Kubernetes**, and **GitHub Actions**.
-- 🧪 **Enterprise Testing**: Ensuring production-grade reliability using **JUnit 5**, **Mockito**, **Testcontainers**, and **WireMock**.
-
----
-
-### 🌐 Global Connect
-<div align="center">
-  <a href="https://linkedin.com/in/dinkarprasadjava" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/DK12345678D" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="mailto:dinkarprasad682@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="Naukri" /></a>
-  <a href="https://internshala.com/student/dashboard" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Internshala" /></a>
-</div>
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,redis,postgres,mysql,mongodb" alt="Languages & Frameworks" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,kafka,rabbitmq,nginx,linux,bash" alt="DevOps & Infrastructure" /><br>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,postman,git,github" alt="Frontend & Tools" /><br>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,sublime,figma" alt="IDEs & Editors" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=🚀+Senior+Backend+Architect+@+codetikki;📈+High-Frequency+Algorithmic+Trading+Engines;⚡+Reactive+Microservices+(Spring+WebFlux+%26+Reactor);📡+Event-Driven+Architecture+(Apache+Kafka+%26+Redis);☁️+Cloud+Native+DevOps+(Kubernetes+%26+Docker)" alt="Typing SVG" />
 </div>
 
 <br>
 
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+<div align="center">
+  <a href="https://linkedin.com/in/dinkarprasadjava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DK12345678D" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dinkarprasad682@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://dinkar-singh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Naukri-007597?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri" />
+  </a>
+  <a href="https://leetcode.com/DK12345678D" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/DK12345678D" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.freelancer.com/u/DK12345678D" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
+  </a>
+</div>
+
+---
+
+### 🏗️ Core Engineering & System Design Expertise
+
+<table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px; border-collapse: collapse;">
   <tr>
-    <td align="center" style="width: 33.33%; padding: 10px;"><b>⚙️ Backend & Architecture</b></td>
-    <td align="center" style="width: 33.33%; padding: 10px;"><b>☁️ Infrastructure & Cloud</b></td>
-    <td align="center" style="width: 33.33%; padding: 10px;"><b>📊 Observability & Performance</b></td>
+    <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155; border-bottom: 1px solid #334155;">
+      <h4 style="color: #38BDF8; margin-top: 0;">🏗️ System Architecture & Microservices</h4>
+      <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
+        <li><b>Scalable Microservices Architecture</b> (<b style="color: #F8FAFC;">Spring Boot 3.x, Spring Cloud</b>)</li>
+        <li><b>Non-blocking Reactive Systems</b> (<b style="color: #F8FAFC;">Spring WebFlux & Project Reactor</b>)</li>
+        <li><b>API Gateway & Service Discovery</b> (<b style="color: #F8FAFC;">Eureka, Resilience4j</b>)</li>
+        <li><b>High Availability, Fault Tolerance & Horizontal Scaling</b></li>
+        <li><b>Database Sharding & Replication Strategies</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border-bottom: 1px solid #334155;">
+      <h4 style="color: #38BDF8; margin-top: 0;">⚡ Performance & Event Streaming</h4>
+      <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
+        <li><b>Asynchronous Messaging & Event-Driven Architecture</b> (<b style="color: #F8FAFC;">Apache Kafka</b>)</li>
+        <li><b>Low-Latency Caching & Distributed Locks</b> (<b style="color: #F8FAFC;">Redis</b>)</li>
+        <li><b>API Latency Optimization & Database Query Indexing</b></li>
+        <li><b>HikariCP Connection Pool & JVM / GC Tuning</b></li>
+        <li><b>p95 / p99 Latency Monitoring & Stress Testing</b></li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top; padding: 10px;">
-      <code>Spring Boot 3.x</code> <code>Spring WebFlux</code><br>
-      <code>Project Reactor</code> <code>Spring Cloud Config</code><br>
-      <code>Eureka Discovery</code> <code>API Gateway</code><br>
-      <code>RESTful API Design</code> <code>SOLID & OOP Patterns</code>
+    <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155;">
+      <h4 style="color: #38BDF8; margin-top: 0;">🛡️ Security Engineering & Auth</h4>
+      <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
+        <li><b>Spring Security & Zero-Trust Architecture</b></li>
+        <li><b>Stateless JWT Authentication & OAuth2 Authorization Flows</b></li>
+        <li><b>Role-Based Access Control (RBAC) & 2FA / TOTP Implementation</b></li>
+        <li><b>Secure API Design & Password Hashing</b></li>
+        <li><b>OWASP API Security Top 10 Safeguards</b></li>
+      </ul>
     </td>
-    <td align="center" style="vertical-align: top; padding: 10px;">
-      <code>Kubernetes</code> <code>Docker / Compose</code><br>
-      <code>GitHub Actions CI/CD</code> <code>Jenkins Pipelines</code><br>
-      <code>Service Mesh</code> <code>Resilience4j (Circuit Breakers)</code><br>
-      <code>Bulkhead Pattern</code> <code>Nginx Web Server</code>
-    </td>
-    <td align="center" style="vertical-align: top; padding: 10px;">
-      <code>Prometheus Metrics</code> <code>Grafana Dashboards</code><br>
-      <code>Distributed Tracing (Zipkin)</code> <code>ELK Stack</code><br>
-      <code>Redis Caching</code> <code>HikariCP Connection Pool</code><br>
-      <code>SQL Query Tuning</code> <code>JMeter Load Testing</code>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4 style="color: #38BDF8; margin-top: 0;">☁️ Cloud Architecture & Observability</h4>
+      <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
+        <li><b>AWS Cloud Infrastructure</b> (<b style="color: #F8FAFC;">EC2, EKS, ECR, RDS, S3, ElastiCache, ALB, VPC, CloudWatch</b>)</li>
+        <li><b>Automated Container Orchestration</b> (<b style="color: #F8FAFC;">Docker & Kubernetes</b>)</li>
+        <li><b>CI/CD Pipeline Automation</b> (<b style="color: #F8FAFC;">GitHub Actions & Jenkins</b>)</li>
+        <li><b>Real-time Telemetry & Tracing</b> (<b style="color: #F8FAFC;">Prometheus, Grafana, Zipkin</b>)</li>
+        <li><b>SLA / SLO / SLI Tracking & Incident Debugging</b></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,postgres,mysql,mongodb&theme=dark" alt="Languages & Databases" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,kafka,nginx,linux,bash&theme=dark" alt="DevOps & Infrastructure" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,postman,git,github&theme=dark" alt="Frontend & Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,figma&theme=dark" alt="IDEs & Editors" />
+</div>
+
+<br>
+
+<table align="center" style="border-collapse: collapse; width: 100%; background-color: #111827; border: 1px solid #334155; border-radius: 8px;">
+  <thead>
+    <tr style="background-color: #1E293B; border-bottom: 1px solid #334155;">
+      <th align="center" style="padding: 12px; width: 25%; color: #38BDF8;"><b>⚙️ Backend & Systems</b></th>
+      <th align="center" style="padding: 12px; width: 25%; color: #38BDF8;"><b>🗄️ Databases & Caching</b></th>
+      <th align="center" style="padding: 12px; width: 25%; color: #38BDF8;"><b>☁️ DevOps & Cloud</b></th>
+      <th align="center" style="padding: 12px; width: 25%; color: #38BDF8;"><b>🤖 Frontend & AI Tools</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="vertical-align: top; padding: 14px; color: #CBD5E1; border-right: 1px solid #334155;">
+        <code>Java 17/21</code> <code>Spring Boot 3.x</code><br>
+        <code>Spring MVC</code> <code>Spring WebFlux</code><br>
+        <code>Spring Security</code> <code>Spring Cloud</code><br>
+        <code>Hibernate / JPA</code> <code>REST APIs</code><br>
+        <code>Microservices Architecture</code>
+      </td>
+      <td align="center" style="vertical-align: top; padding: 14px; color: #CBD5E1; border-right: 1px solid #334155;">
+        <code>SQL</code> <code>MySQL</code> <code>PostgreSQL</code><br>
+        <code>MongoDB</code> <code>Oracle DB</code><br>
+        <code>Redis Caching & Locks</code><br>
+        <code>Apache Kafka Streaming</code><br>
+        <code>HikariCP Connection Pool</code>
+      </td>
+      <td align="center" style="vertical-align: top; padding: 14px; color: #CBD5E1; border-right: 1px solid #334155;">
+        <code>AWS (EC2/EKS/ECR/RDS/S3)</code><br>
+        <code>Docker & Kubernetes</code><br>
+        <code>Jenkins CI/CD</code> <code>GitHub Actions</code><br>
+        <code>Vercel</code> <code>Firebase Services</code><br>
+        <code>Git / GitHub Version Control</code>
+      </td>
+      <td align="center" style="vertical-align: top; padding: 14px; color: #CBD5E1;">
+        <code>Angular</code> <code>TypeScript</code> <code>JavaScript</code><br>
+        <code>HTML5 & CSS3</code> <code>Bootstrap</code><br>
+        <code>Cursor AI Editor</code><br>
+        <code>GitHub Copilot</code><br>
+        <code>ChatGPT / Claude AI</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🚀 High-Impact Projects
+
+#### 📈 [High-Frequency Algorithmic Trading Engine](https://github.com/DK12345678D)
+**Backend Architect & Lead Developer** | `Java 17` `Spring WebFlux` `Project Reactor` `Kafka` `Redis` `PostgreSQL` `Docker`
+- **Core Mission**: Engineered a low-latency, event-driven trading engine capable of processing real-time order books, market data feeds, and execution pipelines.
+- **Reactive Matching Engine**: Designed an in-memory matching engine leveraging Spring WebFlux and Project Reactor for non-blocking, microsecond-level order execution and order book depth calculations.
+- **Event-Driven Architecture**: Integrated Apache Kafka for high-throughput streaming of order events, position updates, trade execution logs, and audit trails.
+- **Real-Time Risk Management & Wallet Engine**: Implemented pre-trade risk checks, multi-currency ledger management, and instant balance validation powered by Redis distributed caching.
+- **Observability & Analytics**: Integrated Prometheus and Grafana for latency tracking (p99 order fulfillment times), transaction throughput monitoring, and system metrics.
+
+---
 
 #### ⚡ [karyatikki.codetikki](https://karyatikki.codetikki.co.in/karyatikki/ba/stories/create)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.3` `Spring Cloud (Eureka, Gateway, Config)` `Spring Security` `MySQL`
@@ -97,48 +180,77 @@
 
 ---
 
-#### 📝 [Eco Nari Foundation ](https://www.econarifoundation.com/)
+#### 📝 [Eco Nari Foundation](https://www.econarifoundation.com/)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.x` `Spring Security` `Redis` `MySQL` `Docker`
 - **Backend Engineering**: Designed and delivered **65+ REST APIs** supporting user management and operational workflows with robust validation and structured exception handling.
 - **Backend Automation**: Automated core business processes to streamline operational workflows and minimize manual intervention.
 - **Performance Optimization**: Improved API responsiveness through optimized database queries and efficient API design.
 - **System Reliability**: Enhanced application stability with comprehensive exception handling, input validation, and consistent error management.
----
-
-### 📊 Vital Statistics & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=DK12345678D&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=DK12345678D&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK12345678D&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=DK12345678D&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity Overview" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DK12345678D&theme=tokyonight&bg_color=0d1117&hide_border=false" alt="GitHub Activity Graph" width="100%" />
-</div>
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 Vital Statistics & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=DK12345678D&show_icons=true&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&bg_color=0B1220&border_color=334155&count_private=true&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=DK12345678D&layout=compact&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&bg_color=0B1220&border_color=334155&border_radius=10" alt="Top Langs" height="180" />
+</div>
+
+
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK12345678D&stroke=38BDF8&background=0B1220&ring=2563EB&fire=38BDF8&currStreakNum=38BDF8&sideNums=CBD5E1&currStreakLabel=2563EB&sideLabels=CBD5E1&dates=CBD5E1&hide_border=false&border=334155" alt="GitHub Streak" height="180" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DK12345678D&theme=nord&bg_color=0B1220&color=38BDF8&line=2563EB&point=38BDF8&hide_border=false&border=334155" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px; margin-top: 10px;">
+  <tr>
+    <td align="center" style="padding: 12px; border-bottom: 1px solid #334155;">
+      <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="98%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px; border-bottom: 1px solid #334155;">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Canvas & 3D Visualizer
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <br><br>
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=DK12345678D&theme=neon&stats=true" alt="3D Contribution Graph" width="100%" />
+  <br>
 </div>
 
 ---
+
+<div align="center">
+  
+  <p align="center">
+    ⚡ <b>Architected with 💙 & ⚡ by <a href="https://github.com/DK12345678D">Dinkar Prasad</a></b> ⚡
+  </p>
+</div>
