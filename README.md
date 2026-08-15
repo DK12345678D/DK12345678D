@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:111827,70:2563EB,100:38BDF8&height=220&section=header&text=Dinkar%20Prasad&fontSize=56&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=Java%20Backend%20Engineer%20%7C%Spring Boot%20%7C%20Microservices%20%7C%20Cloud&descSize=18&descAlignY=64" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:111827,70:2563EB,100:38BDF8&height=220&section=header&text=Dinkar%20Prasad&fontSize=56&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud&descSize=18&descAlignY=64" width="100%" />
 </div>
 
 <p align="right">
@@ -149,16 +149,6 @@
 ---
 
 ### 🚀 High-Impact Projects
-
-#### 📈 [High-Frequency Algorithmic Trading Engine](https://github.com/DK12345678D)
-**Backend Architect & Lead Developer** | `Java 17` `Spring WebFlux` `Project Reactor` `Kafka` `Redis` `PostgreSQL` `Docker`
-- **Core Mission**: Engineered a low-latency, event-driven trading engine capable of processing real-time order books, market data feeds, and execution pipelines.
-- **Reactive Matching Engine**: Designed an in-memory matching engine leveraging Spring WebFlux and Project Reactor for non-blocking, microsecond-level order execution and order book depth calculations.
-- **Event-Driven Architecture**: Integrated Apache Kafka for high-throughput streaming of order events, position updates, trade execution logs, and audit trails.
-- **Real-Time Risk Management & Wallet Engine**: Implemented pre-trade risk checks, multi-currency ledger management, and instant balance validation powered by Redis distributed caching.
-- **Observability & Analytics**: Integrated Prometheus and Grafana for latency tracking (p99 order fulfillment times), transaction throughput monitoring, and system metrics.
-
----
 
 #### ⚡ [karyatikki.codetikki](https://karyatikki.codetikki.co.in/karyatikki/ba/stories/create)
 **Backend Architect & Lead Developer** | `Java 17` `Spring Boot 3.3` `Spring Cloud (Eureka, Gateway, Config)` `Spring Security` `MySQL`
