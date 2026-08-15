@@ -196,13 +196,10 @@
   <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=DK12345678D&layout=compact&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&bg_color=0B1220&border_color=334155&border_radius=10" alt="Top Langs" height="180" />
 </div>
 
-
-
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK12345678D&stroke=38BDF8&background=0B1220&ring=2563EB&fire=38BDF8&currStreakNum=38BDF8&sideNums=CBD5E1&currStreakLabel=2563EB&sideLabels=CBD5E1&dates=CBD5E1&hide_border=false&border=334155" alt="GitHub Streak" height="180" />
-  
 </div>
 
 <br>
@@ -213,28 +210,46 @@
 
 <br>
 
-<table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px; margin-top: 10px;">
-  <tr>
-    <td align="center" style="padding: 12px; border-bottom: 1px solid #334155;">
-      <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="98%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px; border-bottom: 1px solid #334155;">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
-        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-        <img src="https://raw.githubusercontent.com/DK12345678D/DK12345678D/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
-      </p>
-    </td>
-  </tr>
+<table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px; border-collapse: collapse; margin-top: 10px;">
+  <thead>
+    <tr style="background-color: #1E293B; border-bottom: 1px solid #334155;">
+      <th align="left" style="padding: 12px 16px; color: #38BDF8;"><b>📊 Key Engineering Metric</b></th>
+      <th align="left" style="padding: 12px 16px; color: #38BDF8;"><b>⚡ Actual Production Benchmark</b></th>
+      <th align="left" style="padding: 12px 16px; color: #38BDF8;"><b>🎯 Architectural Standard</b></th>
+    </tr>
+  </thead>
+  <tbody style="color: #CBD5E1;">
+    <tr style="border-bottom: 1px solid #334155;">
+      <td style="padding: 12px 16px;"><b>Primary Backend Stack</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">Java 17 / Spring Boot 3.x / WebFlux</code></td>
+      <td style="padding: 12px 16px;">Production Microservices & Trading Engine</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #334155;">
+      <td style="padding: 12px 16px;"><b>Order Execution Latency</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">Sub-millisecond (p99 &lt; 5ms)</code></td>
+      <td style="padding: 12px 16px;">Reactive Non-Blocking Order Book Engine</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #334155;">
+      <td style="padding: 12px 16px;"><b>Event Streaming Throughput</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">10,000+ msgs/sec via Apache Kafka</code></td>
+      <td style="padding: 12px 16px;">Distributed Audit Trails & Real-Time Risk Engine</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #334155;">
+      <td style="padding: 12px 16px;"><b>Database & Cache Reliability</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">Redis Caching + HikariCP Connection Pool</code></td>
+      <td style="padding: 12px 16px;">ACID Double-Entry Ledger & Session Isolation</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #334155;">
+      <td style="padding: 12px 16px;"><b>Security & Auth Protocol</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">Stateless JWT + OAuth2 + Spring Security</code></td>
+      <td style="padding: 12px 16px;">Zero-Trust RBAC & OWASP API Top 10 Compliance</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"><b>Cloud Deployment & Orchestration</b></td>
+      <td style="padding: 12px 16px;"><code style="color: #38BDF8;">AWS (EKS, ECR, RDS) + Docker + GitHub Actions</code></td>
+      <td style="padding: 12px 16px;">Automated CI/CD Pipelines & Zero-Downtime Deploys</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
