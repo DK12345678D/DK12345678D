@@ -41,96 +41,49 @@
 
 ---
 
-### 🛡️ Core Specialization & Architecture Superpowers
-
-<table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155; border-bottom: 1px solid #334155;">
-      <h4 style="color: #38BDF8;">⚡ Reactive & Low-Latency Systems</h4>
-      <ul style="color: #CBD5E1;">
-        <li>Non-blocking, event-loop driven microservices using <b style="color: #F8FAFC;">Spring WebFlux</b> & <b style="color: #F8FAFC;">Project Reactor</b>.</li>
-        <li>High-frequency order books and algorithmic trade execution pipelines.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px; border-bottom: 1px solid #334155;">
-      <h4 style="color: #38BDF8;">🕸️ Resilient Microservice Ecosystems</h4>
-      <ul style="color: #CBD5E1;">
-        <li>Distributed architecture with <b style="color: #F8FAFC;">Spring Cloud</b>, <b style="color: #F8FAFC;">Eureka</b>, <b style="color: #F8FAFC;">API Gateway</b>, and <b style="color: #F8FAFC;">Resilience4j</b>.</li>
-        <li>Zero-trust security with JWT, OAuth2, and dynamic config servers.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155;">
-      <h4 style="color: #38BDF8;">📡 Event Streaming & Caching</h4>
-      <ul style="color: #CBD5E1;">
-        <li>Asynchronous messaging & event-sourcing with <b style="color: #F8FAFC;">Apache Kafka</b>.</li>
-        <li>Low-latency data caching and distributed locks using <b style="color: #F8FAFC;">Redis</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h4 style="color: #38BDF8;">🛠️ Cloud-Native & Observability</h4>
-      <ul style="color: #CBD5E1;">
-        <li>Automated container orchestration using <b style="color: #F8FAFC;">Docker</b> & <b style="color: #F8FAFC;">Kubernetes</b>.</li>
-        <li>Real-time telemetry via <b style="color: #F8FAFC;">Prometheus</b>, <b style="color: #F8FAFC;">Grafana</b>, and <b style="color: #F8FAFC;">Zipkin</b> tracing.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏗️ Engineering & System Design Expertise
+### 🏗️ Core Engineering & System Design Expertise
 
 <table width="100%" style="background-color: #111827; border: 1px solid #334155; border-radius: 8px; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155; border-bottom: 1px solid #334155;">
-      <h4 style="color: #38BDF8; margin-top: 0;">🏗️ System Architecture</h4>
+      <h4 style="color: #38BDF8; margin-top: 0;">🏗️ System Architecture & Microservices</h4>
       <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
-        <li><b>Scalable Microservices Architecture</b></li>
-        <li><b>Distributed Systems & Fault Tolerance</b></li>
-        <li><b>Event-Driven Architecture (Kafka)</b></li>
-        <li><b>API Gateway & Service Discovery (Eureka)</b></li>
-        <li><b>High Availability & Horizontal Scaling</b></li>
-        <li><b>Database Sharding & Replication</b></li>
-        <li><b>Caching Strategies (Redis)</b></li>
+        <li><b>Scalable Microservices Architecture</b> (<b style="color: #F8FAFC;">Spring Boot 3.x, Spring Cloud</b>)</li>
+        <li><b>Non-blocking Reactive Systems</b> (<b style="color: #F8FAFC;">Spring WebFlux & Project Reactor</b>)</li>
+        <li><b>API Gateway & Service Discovery</b> (<b style="color: #F8FAFC;">Eureka, Resilience4j</b>)</li>
+        <li><b>High Availability, Fault Tolerance & Horizontal Scaling</b></li>
+        <li><b>Database Sharding & Replication Strategies</b></li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 15px; border-bottom: 1px solid #334155;">
-      <h4 style="color: #38BDF8; margin-top: 0;">⚡ Performance Engineering</h4>
+      <h4 style="color: #38BDF8; margin-top: 0;">⚡ Performance & Event Streaming</h4>
       <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
-        <li><b>API Latency Optimization</b></li>
-        <li><b>Database Query Optimization & Indexing</b></li>
-        <li><b>Execution Plans & Query Tuning</b></li>
-        <li><b>Redis Distributed Caching</b></li>
-        <li><b>HikariCP Connection Pool Tuning</b></li>
-        <li><b>JVM Performance & GC Tuning</b></li>
+        <li><b>Asynchronous Messaging & Event-Driven Architecture</b> (<b style="color: #F8FAFC;">Apache Kafka</b>)</li>
+        <li><b>Low-Latency Caching & Distributed Locks</b> (<b style="color: #F8FAFC;">Redis</b>)</li>
+        <li><b>API Latency Optimization & Database Query Indexing</b></li>
+        <li><b>HikariCP Connection Pool & JVM / GC Tuning</b></li>
         <li><b>p95 / p99 Latency Monitoring & Stress Testing</b></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 15px; border-right: 1px solid #334155;">
-      <h4 style="color: #38BDF8; margin-top: 0;">🛡️ Security Engineering</h4>
+      <h4 style="color: #38BDF8; margin-top: 0;">🛡️ Security Engineering & Auth</h4>
       <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
         <li><b>Spring Security & Zero-Trust Architecture</b></li>
-        <li><b>JWT Stateless Auth & OAuth2 Flows</b></li>
-        <li><b>Role-Based Access Control (RBAC)</b></li>
-        <li><b>API Authentication & Authorization</b></li>
-        <li><b>2FA / TOTP Implementation</b></li>
+        <li><b>Stateless JWT Authentication & OAuth2 Authorization Flows</b></li>
+        <li><b>Role-Based Access Control (RBAC) & 2FA / TOTP Implementation</b></li>
         <li><b>Secure API Design & Password Hashing</b></li>
         <li><b>OWASP API Security Top 10 Safeguards</b></li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <h4 style="color: #38BDF8; margin-top: 0;">☁️ Cloud Architecture & Reliability</h4>
+      <h4 style="color: #38BDF8; margin-top: 0;">☁️ Cloud Architecture & Observability</h4>
       <ul style="color: #CBD5E1; padding-left: 20px; margin-bottom: 0;">
-        <li><b>AWS (EC2, EKS, ECR, RDS, S3, ElastiCache, ALB, IAM, VPC, CloudWatch)</b></li>
-        <li><b>Docker & Kubernetes Container Orchestration</b></li>
-        <li><b>CI/CD Pipelines (GitHub Actions & Jenkins)</b></li>
-        <li><b>Prometheus & Grafana Metrics Monitoring</b></li>
-        <li><b>Zipkin & Jaeger Distributed Tracing</b></li>
-        <li><b>Centralized Logging & Fault Recovery</b></li>
+        <li><b>AWS Cloud Infrastructure</b> (<b style="color: #F8FAFC;">EC2, EKS, ECR, RDS, S3, ElastiCache, ALB, VPC, CloudWatch</b>)</li>
+        <li><b>Automated Container Orchestration</b> (<b style="color: #F8FAFC;">Docker & Kubernetes</b>)</li>
+        <li><b>CI/CD Pipeline Automation</b> (<b style="color: #F8FAFC;">GitHub Actions & Jenkins</b>)</li>
+        <li><b>Real-time Telemetry & Tracing</b> (<b style="color: #F8FAFC;">Prometheus, Grafana, Zipkin</b>)</li>
         <li><b>SLA / SLO / SLI Tracking & Incident Debugging</b></li>
       </ul>
     </td>
